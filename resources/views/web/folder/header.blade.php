@@ -125,7 +125,7 @@ header -->
                 <form action="{{ url('web-logout') }}" method="POST">
                     @csrf
                     <button type="submit" class="btn btn-primary btn-skew btn-md shape-svg">
-                        <span>Log=-=-=-=-out</span>
+                        <span>Logout</span>
                     </button>
                 </form>
             </li>
